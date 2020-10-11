@@ -3,12 +3,9 @@
 
 ### folders ###
 
-.data/
-.torrents/
 
-# movie torrnet locaion
-.data/
-!.data/.gitkeep
+# cache location
+.cache/
 
 # project dependencies
 node_modules
