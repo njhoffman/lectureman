@@ -20,9 +20,9 @@ module.exports = {
   },
   urls: {
     base: 'http://www.thegreatcourses.com',
-    search: '/search/sort-by/relevance/sort-direction/desc/mode/list',
-    titles: '/courses/types/individual-courses/page/#/sort-by/name/sort-direction/asc/mode/list',
+    search: 'http://www.thegreatcourses.com/search/sort-by/relevance/sort-direction/desc/mode/list',
+    titles: 'http://www.thegreatcourses.com/courses/types/individual-courses/page/#/sort-by/name/sort-direction/asc/mode/list',
     genres:
-      '/courses/types/individual-courses/category/#genre/page/#/sort-by/name/sort-direction/asc/mode/list'
+      'http://www.thegreatcourses.com/courses/types/individual-courses/category/#genre/page/#/sort-by/name/sort-direction/asc/mode/list'
   }
 };
